@@ -1,6 +1,7 @@
+from typing import Literal, Optional
+
 import discord
 from discord.ext import commands
-from typing import Literal, Optional
 
 trelloBoards = {
   "NARA Hub": "https://trello.com/b/iPS4zVCc/nara-hub",

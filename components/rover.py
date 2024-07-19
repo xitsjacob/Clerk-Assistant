@@ -1,6 +1,4 @@
-import asyncio
 import os
-import traceback
 
 import requests
 from roblox import Client
