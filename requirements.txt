@@ -2,6 +2,4 @@ discord.py
 roblox
 
 asyncio
-
 requests
-sys
